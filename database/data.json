@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Raj shah",
+        "email": "raj@gmail.com",
+        "salary": "75000",
+        "date": "2022-06-08",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Rishi shah",
+        "email": "rishi@gmail.com",
+        "salary": "77000",
+        "date": "2022-06-08",
+        "status": "Inactive"
+    },
+    {
+        "id": 3,
+        "name": "Darsh shah",
+        "email": "darsh@gmail.com",
+        "salary": "81000",
+        "date": "2022-06-08",
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "name": "Heena shah",
+        "email": "heena@gmail.com",
+        "salary": "73000",
+        "date": "2022-06-08",
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "name": "Vipul shah",
+        "email": "vipul@gmail.com",
+        "salary": "80000",
+        "date": "2022-06-08",
+        "status": "Inactive"
+    }
+]
