@@ -38,7 +38,7 @@ export default function Home() {
     <>
       <section>
         <Head>
-          <title>CRUD Application</title>
+          <title>Employee Management System</title>
         </Head>
 
         <main className='py-5'>
