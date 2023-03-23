@@ -4,9 +4,10 @@ export default function Document({ title, description, image, url }) {
   return (
     <Html lang="en">
       <Head>
+        <titl>Employee Management System - CRUD using NEXT JS AND MONGO DB</titl>
         <meta property="og:title" content="Employee Management System" />
         <meta property="og:description" content="CRUD Application in NEXT JS and MONGO DB" />
-        <meta property="og:image" content="https://photos.app.goo.gl/yWF4xQhrQQfdsf1Z6" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/rajshah1601/ems/master/thumbnail.png" />
         <meta property="og:url" content="https://ems-c4rr.vercel.app/" />
         <meta property="og:type" content="website" />
 
@@ -14,9 +15,10 @@ export default function Document({ title, description, image, url }) {
 
         <meta name="twitter:title" content="Employee Management System" />
         <meta name="twitter:description" content="CRUD Application in NEXT JS and MONGO DB" />
-        <meta name="twitter:image" content="https://photos.app.goo.gl/yWF4xQhrQQfdsf1Z6" />
+        <meta name="twitter:image" content="https://raw.githubusercontent.com/rajshah1601/ems/master/thumbnail.png6" />
         <meta name="twitter:card" content="summary_large_image"></meta>
         <meta property="fb:app_id" content="332061129096483" />
+
 
 
         {/* <meta property="og:title" content={title} />
